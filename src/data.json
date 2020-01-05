@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "imageURL": "/assets/images/cat1.jpg",
+        "clicked":false
+    },
+    {
+        "id":1,
+        "imageURL": "/assets/images/cat2.jpg",
+        "clicked":false
+    },
+    {
+        "id":1,
+        "imageURL": "/assets/images/cat3.jpg",
+        "clicked":false
+    }
+]
